@@ -12,7 +12,7 @@ A smart way to share files, announcements and quickly access all your online cla
   <code>pip install djangorestframework</code>
 
 1. clone this repo in your system
-<code>git clone https://github.com/VH-Tech/StudyRooms.git</code> 
+<code>git clone https://github.com/VH-Tech/hack36rooms.git</code> 
 
 2. unzip the file <code>studyroomsfinal.zip</code>
 
