@@ -14,13 +14,9 @@ A smart way to share files, announcements and quickly access all your online cla
 1. clone this repo in your system
 <code>git clone https://github.com/VH-Tech/hack36rooms.git</code> 
 
-2. unzip the file <code>studyroomsfinal.zip</code>
+2. open your terminal in this directory and run <code>python3 manage.py runserver</code>
 
-3. change your directory to <code>studyroomsfinal/app/</code>
+3. goto <code>127.0.0.1:8000</code> in your web browser
 
-4. open your terminal in this directory and run <code>python3 manage.py runserver</code>
-
-5. goto <code>127.0.0.1:8000</code> in your web browser
-
-6. on reaching the home page you will be greeted by a webpage similar to this:
+4. on reaching the home page you will be greeted by a webpage similar to this:
 ![image](https://user-images.githubusercontent.com/37875901/155891472-082e49ac-af82-46c5-a319-687b88283b97.png)
