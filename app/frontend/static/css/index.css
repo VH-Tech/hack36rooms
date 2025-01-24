@@ -1,0 +1,44 @@
+html,body {
+  /* height: 100%; */
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+  background: #808080;
+  overflow: auto;
+}
+
+#fix_width{
+  width: 100%;
+}
+
+#main {
+  /* position: fixed; */
+  width: 100%;
+  /* height: 100%; */
+  left: 0;
+  top: 0;
+  background: #808080;
+}
+
+
+#app {
+  width: 100%;
+  height: 100%;
+  background: #808080;
+}
+h3{
+  color:white;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centerx {
+  position: absolute;
+  left: 50%;
+  top:20%;
+  transform: translate(-50%,-90%);
+}
+
